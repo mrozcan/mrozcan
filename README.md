@@ -13,7 +13,6 @@ A backend software developer who really wants to know everything about software 
 ![C#](https://img.shields.io/badge/c%23-479911?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ff8811.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-080a10?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Rust](https://img.shields.io/badge/rust-203030.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-034056?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-134191.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-134076.svg?style=for-the-badge&logo=mysql&logoColor=white)
