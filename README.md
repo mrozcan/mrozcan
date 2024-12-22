@@ -9,7 +9,6 @@ A backend software developer who really wants to know everything about software 
 ## **Skills**
 
 ![C](https://img.shields.io/badge/c-2747e6?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-2747e6?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-479911?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-080a10?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQLite](https://img.shields.io/badge/SQLite-034056?style=for-the-badge&logo=sqlite&logoColor=white)
